@@ -1,0 +1,11 @@
+{
+  "subType" : "customapp",
+  "description" : "SKU Demand",
+  "version" : "1.0",
+  "objectSvcs" : [ {
+    "name" : "SKUDemandRequests",
+    "version" : "1.0",
+    "etag" : "ef9680c9-59af-4fe0-a86e-2eb535228ecb"
+  } ],
+  "identitySvcConf" : "{\"session_idle_timeout_mins\":20,\"session_max_duration_mins\":360,\"show_security_attributes\":false,\"is_integrity_enabled\":false,\"auto_extend\":true}"
+}
