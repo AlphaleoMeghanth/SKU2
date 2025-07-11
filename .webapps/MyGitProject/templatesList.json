@@ -1,0 +1,22 @@
+{
+    "desktopweb": {
+        "formslist": {
+            "mvcFormObjects": [
+                "DemandRequestFrm",
+                "ProductLinefrm"
+            ],
+            "nonmvcFormObjects": []
+        },
+        "templatesList": {
+            "mvcTemplateObjects": [
+                "com.hclsoftwareu.hamburgermenu",
+                "com.konymp.piechart",
+                "com.voltmxmp.multiseriesverticalbar",
+                "mytplSegRowWithImageAndLabel",
+                "SampleRowTemplate",
+                "SampleSectionHeaderTemplate"
+            ],
+            "nonmvcTemplateObjects": []
+        }
+    }
+}

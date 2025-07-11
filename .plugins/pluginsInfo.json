@@ -1,0 +1,61 @@
+{
+    "konyVizVersion": "9.5.52",
+    "pluginsInfo": {
+        "Android": {
+            "fileName": "com.pat.android_9.5.52.v202504081156.jar",
+            "id": "com.pat.android",
+            "version": "9.5.52.v202504081156"
+        },
+        "DesktopNative_Plug-in": {
+            "fileName": "com.kony.desktopnative_9.5.47.v202501090755.jar",
+            "id": "com.kony.desktopnative",
+            "version": "9.5.47.v202501090755"
+        },
+        "Kony_Desktop_Web": {
+            "fileName": "com.kony.desktopweb_9.5.52.v202503251056.jar",
+            "id": "com.kony.desktopweb",
+            "version": "9.5.52.v202503251056"
+        },
+        "Kony_Reference_Architecture": {
+            "fileName": "com.kony.referencearchitecture_9.5.35.v202407180603.jar",
+            "id": "com.kony.referencearchitecture",
+            "version": "9.5.35.v202407180603"
+        },
+        "Kony_Studio": {
+            "fileName": "com.pat.tool.keditor_9.5.43.v202411071635.jar",
+            "id": "com.pat.tool.keditor",
+            "version": "9.5.43.v202411071635"
+        },
+        "Kony_Web_Commons": {
+            "fileName": "com.kony.webcommons_9.5.52.202503251057.jar",
+            "id": "com.kony.webcommons",
+            "version": "9.5.52.202503251057"
+        },
+        "MobileFabric_Client_SDK": {
+            "fileName": "com.kony.mobile.fabric.client.sdk_9.5.51.v202502281124.jar",
+            "id": "com.kony.mobile.fabric.client.sdk",
+            "version": "9.5.51.v202502281124"
+        },
+        "SPA": {
+            "fileName": "com.kony.spa_9.5.52.v202503251059.jar",
+            "id": "com.kony.spa",
+            "version": "9.5.52.v202503251059"
+        },
+        "Tablet_Android": {
+            "fileName": "com.pat.tabrcandroid_9.5.52.v202504081156.jar",
+            "id": "com.pat.tabrcandroid",
+            "version": "9.5.52.v202504081156"
+        },
+        "Third_Party_Jars_Plug-in": {
+            "fileName": "com.kony.thirdparty.jars_9.5.30.v202404260932.jar",
+            "id": "com.kony.thirdparty.jars",
+            "version": "9.5.30.v202404260932"
+        },
+        "iOS_Plugin": {
+            "fileName": "com.kony.ios_9.5.52.v202503250832.jar",
+            "id": "com.kony.ios",
+            "version": "9.5.52.v202503250832"
+        }
+    },
+    "status": "COMPLETED"
+}
